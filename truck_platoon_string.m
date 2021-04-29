@@ -210,6 +210,9 @@ for i=1:length(time)
         fill(truck_3_dimension_X,truck_3_dimension_Y,c(3,:))
         fill(truck_4_dimension_X,truck_4_dimension_Y,c(4,:))
     
+        xlabel('Lon. distance [m]')
+        ylabel('Lat. distance [m]')
+        
     frame = getframe(gcf);
     writeVideo(v,frame);
     
