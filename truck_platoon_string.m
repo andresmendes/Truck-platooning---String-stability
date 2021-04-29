@@ -110,8 +110,8 @@ dist_3_4 = truck_3_position - truck_4_position - truck_3_length;
 
 c = cool(N_trucks); % Colormap
     
-figure
-set(gcf,'Position',[270 140 1280 720])
+fh = figure;
+fh.WindowState = 'maximized';
 
 % Create and open video writer object
 v = VideoWriter('truck_platoon_string.avi');
