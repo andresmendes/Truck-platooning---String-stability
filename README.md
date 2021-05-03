@@ -1,6 +1,6 @@
 [![View Truck platooning - String stability on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/91210-truck-platooning-string-stability)
 # Truck platooning - String stability
-Animation of a string stable four-truck platooning at 72 km/h with 1 second time gap.
+Simulation and animation of a string stable four-truck platooning at 72 km/h with 1 second time gap. 
 
 Watch animation on YouTube: https://youtu.be/m1r2a5QRG10
 
