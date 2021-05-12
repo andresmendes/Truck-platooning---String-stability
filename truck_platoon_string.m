@@ -40,10 +40,10 @@ truck_3_initial_speed    = 72/3.6;   % Speed of the third truck        [m/s]
 truck_3_initial_position = 80;  % Initial position of the third truck  [m]
 
 % Truck 4 (Fourth truck)
-truck_4_length      = 20;       % Length of the third truck            [m]
-truck_4_width       = 4;        % Width of the third truck             [m]
-truck_4_initial_speed    = 72/3.6;   % Speed of the third truck        [m/s]
-truck_4_initial_position = 40;  % Initial position of the third truck  [m]
+truck_4_length      = 20;       % Length of the fourth truck           [m]
+truck_4_width       = 4;        % Width of the fourth truck            [m]
+truck_4_initial_speed    = 72/3.6;   % Speed of the fourth truck       [m/s]
+truck_4_initial_position = 40;  % Initial position of the fourth truck [m]
 
 % PARAMETERS 
 % Struct to ode45
